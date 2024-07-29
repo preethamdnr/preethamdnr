@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Preetham Dongari</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Ecommerce Platform**
+- 🔭 I’m currently working on **E-commerce Platform | Shopping Application**
 
 - 👨‍💻 All of my projects are available at [https://saipreethamdongari.vercel.app/](https://saipreethamdongari.vercel.app/)
+
+- 🎯 Let's collaborate on exciting projects and turn ideas into reality
 
 - 💬 Ask me about **MERN Stack**
 
