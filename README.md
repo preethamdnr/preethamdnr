@@ -7,7 +7,7 @@
 
 - 🎯 Let's collaborate on exciting projects and turn ideas into reality...
 
-- 💬 Ask me about **MERN Stack.**
+- 💬 Ask me about **MERN Stack...**
 
 - 📫 How to reach me **preethamdongari@gmail.com**
 
