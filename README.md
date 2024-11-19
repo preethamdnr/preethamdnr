@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saipreethamdongari.vercel.app/](https://saipreethamdongari.vercel.app/)
 
-- 🎯 Let's collaborate on exciting projects and turn ideas into reality....
+- 🎯 Let's collaborate on exciting projects and turn ideas into reality......
 
 - 💬 Ask me about **MERN Stack...........**
 
